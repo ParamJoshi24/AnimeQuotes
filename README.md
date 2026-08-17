@@ -29,7 +29,7 @@ Debouncing relies on a higher-order function that captures a `timer` variable in
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/ParamJoshi24/AnimeQuotes](https://github.com/your-username/your-repo-name.git)
+   git clone https://github.com/ParamJoshi24/AnimeQuotes
    cd AnimeQuotes
 2. **Open the application:**
    Simply open index.html directly in any web browser[cite: 1].
