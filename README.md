@@ -36,6 +36,6 @@ Debouncing relies on a higher-order function that captures a `timer` variable in
    Or use a local development server such as VS Code's Live Server extension.
    
 ### Next Steps & Planned Improvements
-[ ] Format API responses into styled quote cards instead of raw text displays[cite: 1].
-[ ] Add an animated loading spinner and active debounce countdown indicator.
-[ ] Implement an in-memory cache to prevent re-fetching previously queried terms.
+[ ] Format API responses into styled quote cards instead of raw text displays[cite: 1].  
+[ ] Add an animated loading spinner and active debounce countdown indicator.  
+[ ] Implement an in-memory cache to prevent re-fetching previously queried terms.  
